@@ -33,7 +33,7 @@ yang jelas ***keys*** dan ***values*** pada ***dictionary*** itu berhubungan.
 ## Praktikum 6
 <p align="left">
   <img src="/ss/praktikum6.jpg" width="400">
-  <img src="/ss/flowchart.jpg" width="180">
+  <img src="/ss/flowchart.jpg" width="360">
 </p>
 
     def tambah_data(nim, nama, tugas, uts, uas, data_mahasiswa):
