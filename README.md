@@ -1,7 +1,9 @@
 ## Mata Kuliah
-Sebagai tugas praktikum: [6] Bahasa Pemrograman | Universitas Pelita Bangsa. 
+
+Sebagai tugas praktikum: [6] Bahasa Pemrograman | Universitas Pelita Bangsa.
 
 ## Latihan 1
+
 <p align="left">
   <img src="/ss/latihan1.jpg" width="450">
 </p>
@@ -27,10 +29,11 @@ Sebagai tugas praktikum: [6] Bahasa Pemrograman | Universitas Pelita Bangsa.
     del kontak["Dina"]
     print("Setelah Menghapus Kontak Dina:", list(kontak.items())[0:3], "\n")
 
-fungsi dan penjelasan sudah tertera pada ***#*** dan ***print*** diatas.
-yang jelas ***keys*** dan ***values*** pada ***dictionary*** itu berhubungan.
+fungsi dan penjelasan sudah tertera pada **_#_** dan **_print_** diatas.
+yang jelas **_keys_** dan **_values_** pada **_dictionary_** itu berhubungan.
 
 ## Praktikum 6
+
 <p align="left">
   <img src="/ss/praktikum6.jpg" width="400">
   <img src="/ss/flowchart.jpg" width="360">
@@ -153,8 +156,9 @@ yang jelas ***keys*** dan ***values*** pada ***dictionary*** itu berhubungan.
         # Memanggil fungsi main jika script dijalankan sebagai program utama
         main()
 
-kode diatas menggunakan ***separate structure*** atau ***[]*** agar lebih mudah menempatkan ***value***.
-***append*** berfungsi untuk menambahkan data ke list yang sudah ada.
+kode diatas menggunakan **_separate structure_** atau **_[]_** agar lebih mudah menempatkan **_value_**.
+**_append_** berfungsi untuk menambahkan data ke list yang sudah ada.
 
 ## Documentation
+
 All associated resources. are licensed under the [MIT License](https://mit-license.org/).
